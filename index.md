@@ -4,33 +4,33 @@ You can use the [editor on GitHub](https://github.com/JuliyaWang/DEAN500CLASS/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Python Active Code 
 
-```markdown
-Syntax highlighted code block
+`user_service = (input('Enter desired auto service:\n'))`
+`print ('You entered:', user_service)`
+`if user_service == 'Oil change':`
+`    print ('Cost of oil change: $35')`
+`elif user_service == 'Tire rotation':`
+`    print ('Cost of tire rotation: $19')  ` 
+`elif user_service == 'Car wash':`
+ `   print ('Cost of car wash: $7')   `
+`else:`
+`    print ('Error: Requested service is not recognized')`
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+#### Program input
+`
+Oil change
+`
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JuliyaWang/DEAN500CLASS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### OutCome
+`
+Enter desired auto service:
+You entered:  Oil change
+Error: Requested service is not recognized
+`
 
 ### Support or Contact
 
