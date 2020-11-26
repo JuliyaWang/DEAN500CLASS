@@ -27,11 +27,11 @@ Oil change
 `
 
 ##### OutCome
-`
-Enter desired auto service:/
-You entered:  Oil change/
-Error: Requested service is not recognized
-`
+
+```Enter desired auto service:```
+```You entered:  Oil change```
+```Error: Requested service is not recognized```
+
 
 ### Support or Contact
 
